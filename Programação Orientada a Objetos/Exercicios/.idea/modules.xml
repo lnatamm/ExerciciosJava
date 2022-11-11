@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Exercicios.iml" filepath="$PROJECT_DIR$/.idea/Exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Numeros Complexos/Numeros Complexos.iml" filepath="$PROJECT_DIR$/Numeros Complexos/Numeros Complexos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Poligonos Regulares/Poligonos Regulares.iml" filepath="$PROJECT_DIR$/Poligonos Regulares/Poligonos Regulares.iml" />
+    </modules>
+  </component>
+</project>
